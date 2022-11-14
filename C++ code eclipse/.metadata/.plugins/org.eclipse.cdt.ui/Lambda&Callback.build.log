@@ -1,0 +1,13 @@
+09:54:41 **** Incremental Build of configuration Debug for project Lambda&Callback ****
+make all 
+Building target: Lambda&Callback
+Invoking: Cross G++ Linker
+g++  -o "Lambda&Callback" ./src/Lambda&Callback.o   
+/bin/sh: 1: Callback.o: not found
+make: *** [makefile:60: Lambda&Callback] Error 127
+/usr/bin/ld: cannot find ./src/Lambda: No such file or directory
+collect2: error: ld returned 1 exit status
+"make all" terminated with exit code 2. Build might be incomplete.
+
+09:54:42 Build Failed. 2 errors, 0 warnings. (took 859ms)
+

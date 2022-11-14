@@ -1,0 +1,6 @@
+16:43:29 **** Incremental Build of configuration Debug for project Operator Overloading ****
+make all 
+make: Nothing to be done for 'all'.
+
+16:43:29 Build Finished. 0 errors, 0 warnings. (took 758ms)
+

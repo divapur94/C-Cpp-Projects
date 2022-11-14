@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Polymorphy_2/src/animal.hpp&apos; to &apos;animal.h&apos;" description="Rename resource &apos;animal.hpp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/animal.hpp" name="animal.h" stamp="1652707913376" updateReferences="true"/>
+</session>

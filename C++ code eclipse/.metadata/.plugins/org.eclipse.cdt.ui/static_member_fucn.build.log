@@ -1,0 +1,6 @@
+11:48:45 **** Incremental Build of configuration Debug for project static_member_fucn ****
+make all 
+make: Nothing to be done for 'all'.
+
+11:48:46 Build Finished. 0 errors, 0 warnings. (took 927ms)
+

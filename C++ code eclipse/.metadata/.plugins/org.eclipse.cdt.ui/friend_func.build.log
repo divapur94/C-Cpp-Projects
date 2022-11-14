@@ -1,0 +1,6 @@
+10:48:10 **** Incremental Build of configuration Debug for project friend_func ****
+make all 
+make: Nothing to be done for 'all'.
+
+10:48:11 Build Finished. 0 errors, 0 warnings. (took 918ms)
+

@@ -1,0 +1,33 @@
+#include <iostream>
+#include <vector>
+#include <array>
+using namespace std;
+
+vector<string> splitter(string str, string delimiter);
+
+int main() {
+	std::string s = "scott>=amir>=hossein";
+	std::string delimiter = ">=";
+	vector<string> v = splitter(s, delimiter);
+	for (auto &str1 : v)
+		std::cout << "string is: " << str1 << std::endl;
+	return 0;
+}
+
+vector<string> splitter(string s, string delimiter) {
+	unsigned int i = 0;
+	size_t pos = 0;
+	std::string token;
+	vector<string> v;
+	while ((pos = s.find(delimiter)) != std::string::npos) {
+		token = s.substr(0, pos);
+		v[i] = token;
+		i++;
+		s.erase(0, pos + delimiter.length());
+	}
+	v[i] = s;
+	return v;
+}
+
+//str1 out
+//s in

@@ -1,0 +1,15 @@
+16:39:38 **** Incremental Build of configuration Debug for project Func_template_0 ****
+make all 
+Building file: ../src/Func_template_0.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -Wextra -Wconversion -c -fmessage-length=0 -MMD -MP -MF"src/Func_template_0.d" -MT"src/Func_template_0.o" -o "src/Func_template_0.o" "../src/Func_template_0.cpp"
+Finished building: ../src/Func_template_0.cpp
+ 
+Building target: Func_template_0
+Invoking: Cross G++ Linker
+g++  -o "Func_template_0" ./src/Func_template_0.o   
+Finished building target: Func_template_0
+ 
+
+16:39:39 Build Finished. 0 errors, 0 warnings. (took 1s.447ms)
+

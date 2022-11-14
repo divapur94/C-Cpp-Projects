@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Copy_constructor/src/circ.hpp&apos; to &apos;circ.h&apos;" description="Rename resource &apos;circ.hpp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/circ.hpp" name="circ.h" stamp="1652788166321" updateReferences="true"/>
+</session>

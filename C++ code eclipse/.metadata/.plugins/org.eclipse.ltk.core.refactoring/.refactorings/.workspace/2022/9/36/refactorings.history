@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Training_draft&apos; to &apos;enum&apos;" description="Rename resource &apos;Training_draft&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Training_draft" name="enum" stamp="1662034290254" updateReferences="true"/>
+</session>

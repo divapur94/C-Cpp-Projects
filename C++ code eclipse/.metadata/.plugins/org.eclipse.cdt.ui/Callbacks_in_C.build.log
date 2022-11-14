@@ -1,0 +1,15 @@
+13:23:44 **** Incremental Build of configuration Debug for project Callbacks_in_C ****
+make all 
+Building file: ../src/Callbacks_in_C.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Callbacks_in_C.d" -MT"src/Callbacks_in_C.o" -o "src/Callbacks_in_C.o" "../src/Callbacks_in_C.cpp"
+Finished building: ../src/Callbacks_in_C.cpp
+ 
+Building target: Callbacks_in_C
+Invoking: Cross G++ Linker
+g++  -o "Callbacks_in_C" ./src/Callbacks_in_C.o   
+Finished building target: Callbacks_in_C
+ 
+
+13:23:46 Build Finished. 0 errors, 0 warnings. (took 1s.675ms)
+

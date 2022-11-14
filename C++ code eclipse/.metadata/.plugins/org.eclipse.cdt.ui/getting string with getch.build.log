@@ -1,0 +1,15 @@
+08:38:55 **** Incremental Build of configuration Debug for project getting string with getch ****
+make all 
+Building file: ../src/getting string with getch.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/getting string with getch.d" -MT"src/getting string with getch.o" -o "src/getting string with getch.o" "../src/getting string with getch.cpp"
+Finished building: ../src/getting string with getch.cpp
+ 
+Building target: getting string with getch
+Invoking: Cross G++ Linker
+g++  -o "getting string with getch" ./src/getting\ string\ with\ getch.o   
+Finished building target: getting string with getch
+ 
+
+08:38:56 Build Finished. 0 errors, 0 warnings. (took 1s.508ms)
+

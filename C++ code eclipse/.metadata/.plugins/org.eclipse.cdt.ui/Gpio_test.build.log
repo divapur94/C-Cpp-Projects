@@ -1,0 +1,6 @@
+07:21:24 **** Incremental Build of configuration Debug for project Gpio_test ****
+make all 
+make: Nothing to be done for 'all'.
+
+07:21:25 Build Finished. 0 errors, 0 warnings. (took 685ms)
+

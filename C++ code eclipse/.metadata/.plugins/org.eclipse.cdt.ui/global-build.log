@@ -1,0 +1,215 @@
+11:50:51 **** Incremental Build of configuration Debug for project static_member_fucn ****
+make all 
+Building file: ../src/static_member_fucn.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/static_member_fucn.d" -MT"src/static_member_fucn.o" -o "src/static_member_fucn.o" "../src/static_member_fucn.cpp"
+../src/static_member_fucn.cpp: In function ‘int main()’:
+../src/static_member_fucn.cpp:25:42: error: ‘getnx_ID’ was not declared in this scope
+   25 |                 cout << "Next ID is:" << getnx_ID() << endl;
+      |                                          ^~~~~~~~
+make: *** [src/subdir.mk:20: src/static_member_fucn.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+11:51:08 **** Incremental Build of configuration Debug for project static_member_fucn ****
+make all 
+Building file: ../src/static_member_fucn.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/static_member_fucn.d" -MT"src/static_member_fucn.o" -o "src/static_member_fucn.o" "../src/static_member_fucn.cpp"
+Finished building: ../src/static_member_fucn.cpp
+ 
+Building target: static_member_fucn
+Invoking: Cross G++ Linker
+g++  -o "static_member_fucn" ./src/static_member_fucn.o   
+Finished building target: static_member_fucn
+ 
+11:51:10 **** Incremental Build of configuration Debug for project static_member_fucn ****
+make all 
+make: Nothing to be done for 'all'.
+11:51:16 **** Incremental Build of configuration Debug for project static_member_fucn ****
+make all 
+make: Nothing to be done for 'all'.
+11:51:48 **** Incremental Build of configuration Debug for project static_member_fucn ****
+make all 
+Building file: ../src/static_member_fucn.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/static_member_fucn.d" -MT"src/static_member_fucn.o" -o "src/static_member_fucn.o" "../src/static_member_fucn.cpp"
+Finished building: ../src/static_member_fucn.cpp
+ 
+Building target: static_member_fucn
+Invoking: Cross G++ Linker
+g++  -o "static_member_fucn" ./src/static_member_fucn.o   
+Finished building target: static_member_fucn
+ 
+11:57:12 **** Incremental Build of configuration Debug for project static_member_fucn ****
+make all 
+Building file: ../src/static_member_fucn.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/static_member_fucn.d" -MT"src/static_member_fucn.o" -o "src/static_member_fucn.o" "../src/static_member_fucn.cpp"
+Finished building: ../src/static_member_fucn.cpp
+ 
+Building target: static_member_fucn
+Invoking: Cross G++ Linker
+g++  -o "static_member_fucn" ./src/static_member_fucn.o   
+Finished building target: static_member_fucn
+ 
+11:57:16 **** Incremental Build of configuration Debug for project static_member_fucn ****
+make all 
+make: Nothing to be done for 'all'.
+11:57:57 **** Incremental Build of configuration Debug for project static_member_fucn ****
+make all 
+Building file: ../src/static_member_fucn.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/static_member_fucn.d" -MT"src/static_member_fucn.o" -o "src/static_member_fucn.o" "../src/static_member_fucn.cpp"
+Finished building: ../src/static_member_fucn.cpp
+ 
+Building target: static_member_fucn
+Invoking: Cross G++ Linker
+g++  -o "static_member_fucn" ./src/static_member_fucn.o   
+Finished building target: static_member_fucn
+ 
+11:58:03 **** Incremental Build of configuration Debug for project static_member_fucn ****
+make all 
+make: Nothing to be done for 'all'.
+12:31:51 **** Incremental Build of configuration Debug for project static_member_fucn ****
+make all 
+Building file: ../src/static_member_fucn.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/static_member_fucn.d" -MT"src/static_member_fucn.o" -o "src/static_member_fucn.o" "../src/static_member_fucn.cpp"
+Finished building: ../src/static_member_fucn.cpp
+ 
+Building target: static_member_fucn
+Invoking: Cross G++ Linker
+g++  -o "static_member_fucn" ./src/static_member_fucn.o   
+Finished building target: static_member_fucn
+ 
+12:33:29 **** Incremental Build of configuration Debug for project static_member_fucn ****
+make all 
+make: Nothing to be done for 'all'.
+12:33:33 **** Incremental Build of configuration Debug for project static_member_fucn ****
+make all 
+make: Nothing to be done for 'all'.
+12:33:37 **** Incremental Build of configuration Debug for project static_member_fucn ****
+make all 
+make: Nothing to be done for 'all'.
+12:33:52 **** Incremental Build of configuration Debug for project static_member_fucn ****
+make all 
+Building file: ../src/static_member_fucn.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/static_member_fucn.d" -MT"src/static_member_fucn.o" -o "src/static_member_fucn.o" "../src/static_member_fucn.cpp"
+Finished building: ../src/static_member_fucn.cpp
+ 
+Building target: static_member_fucn
+Invoking: Cross G++ Linker
+g++  -o "static_member_fucn" ./src/static_member_fucn.o   
+Finished building target: static_member_fucn
+ 
+12:36:12 **** Incremental Build of configuration Debug for project static_member_fucn ****
+make all 
+Building file: ../src/static_member_fucn.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/static_member_fucn.d" -MT"src/static_member_fucn.o" -o "src/static_member_fucn.o" "../src/static_member_fucn.cpp"
+Finished building: ../src/static_member_fucn.cpp
+ 
+Building target: static_member_fucn
+Invoking: Cross G++ Linker
+g++  -o "static_member_fucn" ./src/static_member_fucn.o   
+Finished building target: static_member_fucn
+ 
+12:36:17 **** Incremental Build of configuration Debug for project static_member_fucn ****
+make all 
+make: Nothing to be done for 'all'.
+12:36:18 **** Incremental Build of configuration Debug for project static_member_fucn ****
+make all 
+make: Nothing to be done for 'all'.
+12:36:27 **** Incremental Build of configuration Debug for project static_member_fucn ****
+make all 
+Building file: ../src/static_member_fucn.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/static_member_fucn.d" -MT"src/static_member_fucn.o" -o "src/static_member_fucn.o" "../src/static_member_fucn.cpp"
+Finished building: ../src/static_member_fucn.cpp
+ 
+Building target: static_member_fucn
+Invoking: Cross G++ Linker
+g++  -o "static_member_fucn" ./src/static_member_fucn.o   
+Finished building target: static_member_fucn
+ 
+12:36:33 **** Incremental Build of configuration Debug for project static_member_fucn ****
+make all 
+make: Nothing to be done for 'all'.
+12:36:36 **** Incremental Build of configuration Debug for project static_member_fucn ****
+make all 
+make: Nothing to be done for 'all'.
+11:44:55 **** Incremental Build of configuration Debug for project static_member_fucn ****
+make all 
+Building file: ../src/static_member_fucn.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/static_member_fucn.d" -MT"src/static_member_fucn.o" -o "src/static_member_fucn.o" "../src/static_member_fucn.cpp"
+../src/static_member_fucn.cpp: In function ‘int main()’:
+../src/static_member_fucn.cpp:31:20: warning: unused variable ‘g’ [-Wunused-variable]
+   31 |         generateID g;
+      |                    ^
+Finished building: ../src/static_member_fucn.cpp
+ 
+Building target: static_member_fucn
+Invoking: Cross G++ Linker
+g++  -o "static_member_fucn" ./src/static_member_fucn.o   
+Finished building target: static_member_fucn
+ 
+11:45:11 **** Incremental Build of configuration Debug for project static_member_fucn ****
+make all 
+Building file: ../src/static_member_fucn.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/static_member_fucn.d" -MT"src/static_member_fucn.o" -o "src/static_member_fucn.o" "../src/static_member_fucn.cpp"
+Finished building: ../src/static_member_fucn.cpp
+ 
+Building target: static_member_fucn
+Invoking: Cross G++ Linker
+g++  -o "static_member_fucn" ./src/static_member_fucn.o   
+Finished building target: static_member_fucn
+ 
+11:45:21 **** Incremental Build of configuration Debug for project static_member_fucn ****
+make all 
+make: Nothing to be done for 'all'.
+11:45:59 **** Incremental Build of configuration Debug for project static_member_fucn ****
+make all 
+Building file: ../src/static_member_fucn.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/static_member_fucn.d" -MT"src/static_member_fucn.o" -o "src/static_member_fucn.o" "../src/static_member_fucn.cpp"
+../src/static_member_fucn.cpp: In function ‘int main()’:
+../src/static_member_fucn.cpp:34:22: error: no match for ‘operator==’ (operand types are ‘student’ and ‘int’)
+   34 |                 if(a == 0)
+      |                    ~ ^~ ~
+      |                    |    |
+      |                    |    int
+      |                    student
+make: *** [src/subdir.mk:20: src/static_member_fucn.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+11:46:24 **** Incremental Build of configuration Debug for project static_member_fucn ****
+make all 
+Building file: ../src/static_member_fucn.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/static_member_fucn.d" -MT"src/static_member_fucn.o" -o "src/static_member_fucn.o" "../src/static_member_fucn.cpp"
+Finished building: ../src/static_member_fucn.cpp
+ 
+Building target: static_member_fucn
+Invoking: Cross G++ Linker
+g++  -o "static_member_fucn" ./src/static_member_fucn.o   
+Finished building target: static_member_fucn
+ 
+11:46:33 **** Incremental Build of configuration Debug for project static_member_fucn ****
+make all 
+Building file: ../src/static_member_fucn.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/static_member_fucn.d" -MT"src/static_member_fucn.o" -o "src/static_member_fucn.o" "../src/static_member_fucn.cpp"
+Finished building: ../src/static_member_fucn.cpp
+ 
+Building target: static_member_fucn
+Invoking: Cross G++ Linker
+g++  -o "static_member_fucn" ./src/static_member_fucn.o   
+Finished building target: static_member_fucn
+ 
+11:48:45 **** Incremental Build of configuration Debug for project static_member_fucn ****
+make all 
+make: Nothing to be done for 'all'.
+11:59:49 **** Incremental Build of configuration Debug for project enum ****
+make all 
+make: Nothing to be done for 'all'.

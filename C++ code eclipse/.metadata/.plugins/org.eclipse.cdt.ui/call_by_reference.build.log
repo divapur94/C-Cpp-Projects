@@ -1,0 +1,20 @@
+18:21:13 **** Build of configuration Debug for project call_by_reference ****
+make all 
+Building file: ../src/Circle.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Circle.d" -MT"src/Circle.o" -o "src/Circle.o" "../src/Circle.cpp"
+Finished building: ../src/Circle.cpp
+ 
+Building file: ../src/helloworld1.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/helloworld1.d" -MT"src/helloworld1.o" -o "src/helloworld1.o" "../src/helloworld1.cpp"
+Finished building: ../src/helloworld1.cpp
+ 
+Building target: call_by_reference
+Invoking: Cross G++ Linker
+g++  -o "call_by_reference" ./src/Circle.o ./src/helloworld1.o   
+Finished building target: call_by_reference
+ 
+
+18:21:15 Build Finished. 0 errors, 0 warnings. (took 2s.151ms)
+

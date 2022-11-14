@@ -1,0 +1,15 @@
+10:30:20 **** Incremental Build of configuration Debug for project Class_template_derived ****
+make all 
+Building file: ../src/Class_template_derived.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Class_template_derived.d" -MT"src/Class_template_derived.o" -o "src/Class_template_derived.o" "../src/Class_template_derived.cpp"
+Finished building: ../src/Class_template_derived.cpp
+ 
+Building target: Class_template_derived
+Invoking: Cross G++ Linker
+g++  -o "Class_template_derived" ./src/Class_template_derived.o   
+Finished building target: Class_template_derived
+ 
+
+10:30:22 Build Finished. 0 errors, 0 warnings. (took 1s.439ms)
+

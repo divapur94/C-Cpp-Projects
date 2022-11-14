@@ -1,0 +1,30 @@
+#include <iostream>
+#include <vector>
+#include <array>
+using namespace std;
+
+
+int main (){
+	std::string s = "scott>=amir>=hossein";
+	std::string delimiter = ">=";
+	std::vector <std::string> v;
+
+   unsigned int i=0;
+   size_t pos=0;
+	std::string token;
+	while ((pos = s.find(delimiter)) != std::string::npos) {
+	    token = s.substr(0, pos);
+	    v.append(token);
+	    i++;
+	    s.erase(0, pos + delimiter.length());
+	}
+	v[i] = s;
+	for (auto& str1:v)
+		std::cout << "string is: " << str1 << std::endl;
+	return 0;
+}
+
+
+
+//str1 out
+//s in

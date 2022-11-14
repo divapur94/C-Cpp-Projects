@@ -1,0 +1,15 @@
+16:59:12 **** Incremental Build of configuration Debug for project draft ****
+make all 
+Building file: ../src/draft.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/draft.d" -MT"src/draft.o" -o "src/draft.o" "../src/draft.cpp"
+Finished building: ../src/draft.cpp
+ 
+Building target: draft
+Invoking: Cross G++ Linker
+g++  -o "draft" ./src/draft.o   
+Finished building target: draft
+ 
+
+16:59:14 Build Finished. 0 errors, 0 warnings. (took 1s.751ms)
+

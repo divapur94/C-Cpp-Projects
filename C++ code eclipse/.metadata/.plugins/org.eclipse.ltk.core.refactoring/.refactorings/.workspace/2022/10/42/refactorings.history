@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;draft&apos; to &apos;Splitting string&apos;" description="Rename resource &apos;draft&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/draft" name="Splitting string" stamp="1665740552791" updateReferences="true"/>
+</session>

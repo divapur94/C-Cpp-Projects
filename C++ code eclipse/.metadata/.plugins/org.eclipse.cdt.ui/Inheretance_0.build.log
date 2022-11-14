@@ -1,0 +1,15 @@
+14:18:15 **** Incremental Build of configuration Debug for project Inheretance_0 ****
+make all 
+Building file: ../src/Inheretance_0.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Inheretance_0.d" -MT"src/Inheretance_0.o" -o "src/Inheretance_0.o" "../src/Inheretance_0.cpp"
+Finished building: ../src/Inheretance_0.cpp
+ 
+Building target: Inheretance_0
+Invoking: Cross G++ Linker
+g++  -o "Inheretance_0" ./src/Inheretance_0.o   
+Finished building target: Inheretance_0
+ 
+
+14:18:16 Build Finished. 0 errors, 0 warnings. (took 1s.450ms)
+

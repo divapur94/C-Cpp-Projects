@@ -1,0 +1,6 @@
+08:46:17 **** Incremental Build of configuration Debug for project Stepper_Driver ****
+make all 
+make: Nothing to be done for 'all'.
+
+08:46:18 Build Finished. 0 errors, 0 warnings. (took 833ms)
+
