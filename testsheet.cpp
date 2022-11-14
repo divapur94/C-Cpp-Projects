@@ -48,16 +48,19 @@ int main()
 }
 */
 
-/* pointer
+// pointer
+#include <iostream>
 #include <stdio.h>
+using namespace std;
 int main(){
     int a;
     a = 15;
     int *p;
     p = &a;
-    printf("pointer p is pointing to %d", (int)*p);
+    cout << "now pointer p is pointing to " << (int)*p << endl;
+    // printf("pointer p is pointing to %d", (int)*p);
 }
-*/
+
 
 
 /* pointer condition for loop
